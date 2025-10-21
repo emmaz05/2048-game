@@ -16,7 +16,6 @@ The game demonstrates object-oriented programming and event-driven GUI handling 
 
 ## How to Run
 1. Download the repository to your computer.  
-2. Make sure you have Python installed (version 3.x).  
-3. Run the game by executing:  
+2. Run the game by executing:  
 ```bash
 python 2048.py
